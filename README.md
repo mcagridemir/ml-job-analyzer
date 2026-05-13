@@ -26,7 +26,7 @@ This project demonstrates an end-to-end ML pipeline built on real LinkedIn job p
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/ml-job-analyzer.git
+git clone https://github.com/mcagridemir/ml-job-analyzer.git
 cd ml-job-analyzer
 ```
 
